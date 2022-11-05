@@ -8,6 +8,7 @@ import "./styles/App.scss"
 import "./styles/header.scss"
 import "./styles/home.scss"
 
+
 const  App = () => {
   return (
     <Router>
